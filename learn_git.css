@@ -1,0 +1,239 @@
+#main-container {
+    background-color: rgb(238, 237, 237);
+    width: 750px;
+    min-height: 800;
+    padding: 50px;
+}
+#header {
+    width: 600;
+    height: 80px;
+    padding-top: 5px;
+}
+#logo {
+    width: 10%;
+    display: inline-block;
+    vertical-align: bottom;
+}
+#header-text {
+    color: slategray;
+    display: inline-block;
+    font-size: 20px;
+    height: 50px;
+    width: 450;
+    box-align: top;
+    margin-left: 5px;
+}
+#search-box {
+    width: 200px;
+    height: 15px;
+    background: white;
+    color: slategray;
+    font-family: 'Times New Roman', Times, serif;
+    display: inline-block;
+    margin-left: 90px; 
+    font-size: 12px;
+    border: solid lightgray 1.5px; 
+    border-radius: 15px;
+    padding-left: 10px;
+    padding: 5px;
+}
+#search-img {
+    width: 7%;
+    margin-left: 5px;
+}
+#main-page {
+    background-color: white;
+}
+#navigation {
+    width: 170px;
+    min-height: 400px;
+    background-color: rgb(238, 237, 237);
+    display: inline-block;
+}
+#top-navigation {
+    height: 200px;
+    display: inline-block;
+}
+.nav-text {
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 13px;
+    margin-top: 0px;
+}
+.nav-text-2 {
+    color: red;
+    font-weight: bold;
+    font-size: 13px;
+}
+.nav-text-3 {
+    font-size: 10px;
+    margin-top: -10px;
+    margin-left: 15px;
+}
+#bottom-navigation {
+    height: 100px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.nav-text-4 {
+    font-size: 11px;
+    display: inline-block;
+    font-family: 'Times New Roman', Times, serif;
+    margin: 0px;
+}
+.nav-text-5 {
+    font-size: 12px;
+    font-family: 'Times New Roman', Times, serif;
+    margin: 0px;
+    text-decoration: none;
+    color: darkcyan;
+}
+.nav-text-6 {
+    font-size: 12px;
+    display: inline-block;
+    font-family: 'Times New Roman', Times, serif;
+    color: darkcyan;
+    margin: 0px;
+    text-decoration: none;
+}
+#sub-main {
+    display: inline-block;
+    background-color: white;
+    width: 500px;
+    min-height: 400px;
+    vertical-align: top;
+}
+#content-1 {
+    width: 220px;
+    background-color: white;
+    margin-left: 20px;
+    display: inline-block;
+}
+#content-1a {
+    
+}
+#title-1 {
+    font-size: 28px;
+    font-weight: normal;
+    display: inline-block;
+}#content-1b {
+    background-color: rgb(238, 237, 237);
+    padding: 15px;
+    padding-bottom: 5px;
+    display: inline-block;
+}
+.cust-logo {
+    display: inline-block;
+    width: 7%;
+}
+.title-2 {
+    margin-left: 5px;
+    margin-right: 20px;
+    font-size: 12px;
+    font-weight: bold;
+    text-decoration: none;
+    color: darkcyan;
+}
+.para-text-1 {
+    font-size: 12px;
+    display: inline-block;
+    font-family: 'Times New Roman', Times, serif;
+}
+.para-text-2 {
+    font-size: 12px;
+    display: inline-block;
+    font-family: 'Times New Roman', Times, serif;
+    margin: 0px;
+    text-decoration: none;
+    color: darkcyan;
+}
+.main-image {
+    width: 220px;
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 20px;
+    padding-top: 20px;
+}
+#content-2 {
+    background-color: rgb(238, 237, 237);
+    margin: 20px;
+}
+.content-2a {
+    width: 200px;
+    padding-left: 15px;
+    padding-top: 4px;
+    padding-bottom: 15px;
+    display: inline-block;
+}
+.title-4 {
+    font-weight: bold;
+    color: red;
+    font-size: 14px;
+    margin-bottom: 0px;
+}
+.para-text-3 {
+    font-size: 12px;
+    font-family: 'Times New Roman', Times, serif;
+    color: darkcyan;
+    font-weight: bold;
+    margin: 0px;
+} 
+.content-2b {
+    width: 200px;
+    padding-left: 15px;
+    padding-top: 4px;
+    padding-bottom: 15px;
+    display: inline-block;
+    vertical-align: top;
+}
+#content-3 {
+    margin: 20px;
+}
+.git-link {
+    color: red;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 11px;
+    display: block;
+    padding-top: 10px;
+    margin-left: 5px;
+    padding-bottom: 5px;
+    text-decoration: none;
+}
+#footer {
+    height: 80px;
+    width: 100%;
+    margin-top: 20px;
+}
+#footer-1 {
+    width: 300px;
+    display: inline-block;
+    height: 40px;
+}
+.footer-image {
+    width: 35px;
+}
+#foooter-1a {
+    display: inline-block;
+    width: 150px;
+    height: 40px;
+}
+.footer-text-1 {
+    font-size: 10px;
+    font-family: 'Times New Roman', Times, serif;
+    margin: 0px;
+    color: black;
+    text-decoration: none;
+}
+.footer-text-2 {
+    font-size: 10px;
+    font-family: 'Times New Roman', Times, serif;
+    color: slategray;
+    margin: 0px;
+    text-decoration: none;
+}
+#footer-2 {
+    display: inline-block;
+    vertical-align: top;
+    width: 150px;
+    height: 50px;
+}
